@@ -1,2 +1,4 @@
-.idea/
-webdriver/
+/*
+!*.py
+!requirements.txt
+!*.png
